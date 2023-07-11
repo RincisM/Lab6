@@ -1,0 +1,12 @@
+1. Create a Server using Nodejs, 
+	(i) Modify the server code to return a String of your choice
+	(ii) Modify the Server code to output the requested object to the console using console.log
+
+2. FileSystem -> using fsmodule
+	(i) Create a Nodejs Program to output the current working directory (using fsmodule)
+	(ii) Extend the code to the node server such that it can output the value of directory name
+	(iii) Create a program which can read a file from the current working directory and output it to console ( after this it is advised to append some content in the same file)
+
+3. 	(i) Create a Date Module. This module will tell the current date and time.(when we import this module it will tell date and time)
+	(ii) Extend the code by creating a new module named as days left. (It should be able to give you the remaining number of days till a significant date from the current date (which can be imported from the first module Date))
+	(iii) Take the code of days left and integrate with the node server. We should hit by using a URL and we should find the number of days between two dates.
